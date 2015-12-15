@@ -1,5 +1,7 @@
 # MaxShop Responsive eCommerce Template
 ![](https://raw.githubusercontent.com/webtechfreaky/maxshop-responsive-ecommerce-template/master/banner.jpg)
+
+***Demo : *** http://webtechfreaky.github.io/maxshop-responsive-ecommerce-template/Maxshop/
 An extremely stylish template for retail. Nothing superfluous, only beautiful e-commerce design. A fresh, new and simple design suitable for all type of goods and products
 
 ## Features
