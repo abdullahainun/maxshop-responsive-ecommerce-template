@@ -19,20 +19,20 @@ An extremely stylish template for retail. Nothing superfluous, only beautiful e-
 
 - Home
 	- Slider
-        Brands Carousal
-        LighBox
-        Promotions / Offers
-    Products: Grid Style
-    Products: List Style
-    Sidebar
-        Featured Products
-        Price Slider
-        Categories Accordion
-    Product Detail
-        Images Gallery
-        Description Tabs
-    6 Step Checkout Page
-    Shopping Cart Page
-    Blog
-    Blog Detail
+	- Brands Carousal
+	- LighBox
+	- Promotions / Offers
+- Products: Grid Style
+- Products: List Style
+- Sidebar
+	- Featured Products
+	- Price Slider
+	- Categories Accordion
+- Product Detail
+	- Images Gallery
+    - Description Tabs
+- 6 Step Checkout Page
+- Shopping Cart Page
+- Blog
+- Blog Detail
 
