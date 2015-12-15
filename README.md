@@ -17,8 +17,8 @@ An extremely stylish template for retail. Nothing superfluous, only beautiful e-
     
 ## Pages
 
-    Home
-        Slider
+- Home
+	- Slider
         Brands Carousal
         LighBox
         Promotions / Offers
